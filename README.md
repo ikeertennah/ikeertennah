@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:2EA043&height=200&section=header&text=Keertennah%20Devi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Analyst%20%7C%20Identity%20%26%20Access%20Management&descAlignY=55&descSize=17" width="100%"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:2EA043&height=200&section=header&text=Keertennah%20Devi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Analyst%20%7C%20Identity%20%26%20Access%20Management&descAlignY=55&descSize=17" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=650&lines=IAM+Analyst+%40+National+Oilwell+Varco+(NOV);Okta+%7C+Active+Directory+%7C+SSO+%7C+PAM+%7C+MFA;Master+of+Cybersecurity+Candidate+%40+UTM" alt="Typing SVG" />
 
