@@ -15,7 +15,7 @@
 
 <br/>
 
-> **TL;DR for recruiters:** 3 years administering enterprise IAM in production (Okta, Active Directory, SSO, PAM) at NOV, now stacking a Master of Cybersecurity on top of it. This profile is my lab notebook — every module I study turns into a hands-on build documented here.
+> ** 3 years administering IAM in production (Okta, Active Directory, SSO, PAM) at NOV, now stacking a Master of Cybersecurity on top of it. This profile is my lab notebook — every module I study turns into a hands-on build documented here.
 
 <br/>
 
