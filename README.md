@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:2EA043&height=200&section=header&text=Hi,%20I'm%20Keertennah%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Securing%20Identities.%20One%20Access%20Request%20at%20a%20Time.&descAlignY=55&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=650&lines=IAM+Analyst+%40+National+Oilwell+Varco+(NOV);Okta+%7C+Active+Directory+%7C+SSO+%7C+PAM+%7C+MFA;Master+of+Cybersecurity+Candidate+%40+UTM;Turning+Access+Chaos+into+Access+Control" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=650&lines=Cybersecurity+IAM+Analyst;Okta+%7C+Active+Directory+%7C+SSO+%7C+PAM+%7C+MFA;Master+of+Cybersecurity+Candidate+%40+UTM;Turning+Access+Chaos+into+Access+Control" alt="Typing SVG" />
 
 <br/>
 
