@@ -56,7 +56,7 @@ Automated Okta approval workflows in production; building an ML-based (Autoencod
 ## 🧰 Skills
 
 <div align="center">
-<img src="https://quickchart.io/chart?width=560&height=340&backgroundColor=transparent&c={type:%27radar%27,data:{labels:[%27IAM%20%26%20SSO%27,%27Directory%20Services%27,%27Cloud%20Security%27,%27Pen%20Testing%27,%27Digital%20Forensics%27,%27GRC%20%26%20Auditing%27],datasets:[{label:%27Proficiency%27,data:[9,8,6,7,7,7],backgroundColor:%27rgba(46,160,67,0.25)%27,borderColor:%27%232ea043%27,pointBackgroundColor:%27%232ea043%27}]},options:{scales:{r:{angleLines:{color:%27%23888%27},grid:{color:%27%23888%27},pointLabels:{color:%27%23ccc%27,font:{size:12}},ticks:{display:false,max:10,min:0}}},plugins:{legend:{display:false}}}}" alt="Skill radar"/>
+<img src="https://quickchart.io/chart?width=560&height=340&backgroundColor=transparent&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22IAM%20%26%20SSO%22%2C%22Directory%20Services%22%2C%22Cloud%20Security%22%2C%22Pen%20Testing%22%2C%22Digital%20Forensics%22%2C%22GRC%20%26%20Auditing%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Proficiency%22%2C%22data%22%3A%5B9%2C8%2C6%2C7%2C7%2C7%5D%2C%22backgroundColor%22%3A%22rgba(46%2C160%2C67%2C0.25)%22%2C%22borderColor%22%3A%22%232ea043%22%2C%22pointBackgroundColor%22%3A%22%232ea043%22%7D%5D%7D%2C%22options%22%3A%7B%22scales%22%3A%7B%22r%22%3A%7B%22angleLines%22%3A%7B%22color%22%3A%22%23888%22%7D%2C%22grid%22%3A%7B%22color%22%3A%22%23888%22%7D%2C%22pointLabels%22%3A%7B%22color%22%3A%22%23ccc%22%2C%22font%22%3A%7B%22size%22%3A12%7D%7D%2C%22ticks%22%3A%7B%22display%22%3Afalse%2C%22max%22%3A10%2C%22min%22%3A0%7D%7D%7D%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D" alt="Skill radar"/>
 </div>
 
 <div align="center">
@@ -109,14 +109,18 @@ Automated Okta approval workflows in production; building an ML-based (Autoencod
 ## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ikeertennah&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" width="48%"/>
-<img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ikeertennah&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ikeertennah&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikeertennah&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" width="48%"/>
 
 <img src="https://streak-stats.demolab.com?user=ikeertennah&theme=tokyonight&hide_border=true&background=00000000&ring=2ea043&fire=2ea043&currStreakLabel=2ea043" width="97%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikeertennah&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" width="97%"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=ikeertennah&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8" width="97%"/>
+
+<img src="https://metrics.lecoq.io/ikeertennah?template=classic&base=header,activity&config.timezone=Asia%2FKuala_Lumpur&plugin_isocalendar=true&plugin_isocalendar.duration=full-year" width="97%"/>
+
 </div>
 
 <br/>
@@ -126,10 +130,5 @@ Automated Okta approval workflows in production; building an ML-based (Autoencod
 📩 **ikeertennah@gmail.com**  ·  🔗 **[linkedin.com/in/keertennahdevi](https://www.linkedin.com/in/keertennahdevi)**  ·  💻 **[github.com/ikeertennah](https://github.com/ikeertennah)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,100:1F3864&height=90&section=footer" width="100%"/>
-
-</div>
-<a href="https://www.linkedin.com/in/keertennahdevi"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,100:1F3864&height=100&section=footer" width="100%"/>
 
 </div>
