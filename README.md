@@ -1,44 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:2EA043&height=200&section=header&text=Hi,%20I'm%20Keertennah%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Securing%20Identities.%20One%20Access%20Request%20at%20a%20Time.&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:2EA043&height=200&section=header&text=Keertennah%20Devi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Analyst%20%7C%20Identity%20%26%20Access%20Management&descAlignY=55&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=650&lines=Cybersecurity+IAM+Analyst;Okta+%7C+Active+Directory+%7C+SSO+%7C+PAM+%7C+MFA;Master+of+Cybersecurity+Candidate+%40+UTM;Turning+Access+Chaos+into+Access+Control" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=650&lines=IAM+Analyst+%40+National+Oilwell+Varco+(NOV);Okta+%7C+Active+Directory+%7C+SSO+%7C+PAM+%7C+MFA;Master+of+Cybersecurity+Candidate+%40+UTM" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/keertennahdevi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ikeertennah@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/keertennahdevi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ikeertennah@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Okta_Certified_Professional-007DC1?style=for-the-badge&logo=okta&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=ikeertennah&style=for-the-badge&color=2ea043&label=Profile+Views"/>
 
 </div>
 
 <br/>
 
-> ** 3 years administering IAM in production (Okta, Active Directory, SSO, PAM) at NOV, now stacking a Master of Cybersecurity on top of it. This profile is my lab notebook — every module I study turns into a hands-on build documented here.
+## 📌 On This Page
+
+`About` · `What I Do` · `Skills` · `Coursework Timeline` · `Certifications` · `GitHub Activity`
 
 <br/>
 
-## 🎯 What I Bring to a Team
+## 👋 About
+
+Cybersecurity Analyst with 3 years of production Identity and Access Management (IAM) experience at **National Oilwell Varco (NOV)** — administering Okta, Active Directory, SSO federation (SAML 2.0/OIDC), MFA, SSPR, and Privileged Access Management (PAM). Currently completing a **Master of Cybersecurity** at Universiti Teknologi Malaysia (UTM); this profile documents that coursework as it's built, semester by semester.
+
+<br/>
+
+## 🎯 What I Do
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
 ### 🔑 Production IAM
-Live enterprise identity ops — provisioning, deprovisioning, SSO/SAML/OIDC federation, MFA, SSPR, PAM — not just theory.
+Day-to-day enterprise identity operations — provisioning, deprovisioning, SSO/SAML/OIDC federation, MFA, SSPR, PAM administration.
 
 </td>
 <td width="33%" valign="top">
 
-### 🎓 Academic Depth
-Master's-level coursework in pentesting, forensics, malware analysis, secure SDLC, and ISO 27001 auditing — published, not just studied.
+### 🎓 Applied Security Research
+Master's-level labs in penetration testing, digital forensics, malware analysis, secure SDLC, and ISO/IEC 27001 auditing.
 
 </td>
 <td width="33%" valign="top">
 
-### 🤖 Automation Mindset
-I optimize the boring stuff — automated Okta approval workflows, SSPR, and now ML-based anomaly detection for my FYP.
+### 🤖 Automation & Anomaly Detection
+Automated Okta approval workflows in production; building an ML-based (Autoencoder + SMOTE + CNN) anomaly detection framework for my FYP.
 
 </td>
 </tr>
@@ -46,7 +53,11 @@ I optimize the boring stuff — automated Okta approval workflows, SSPR, and now
 
 <br/>
 
-## 🧰 Toolbelt
+## 🧰 Skills
+
+<div align="center">
+<img src="https://quickchart.io/chart?width=560&height=340&backgroundColor=transparent&c={type:%27radar%27,data:{labels:[%27IAM%20%26%20SSO%27,%27Directory%20Services%27,%27Cloud%20Security%27,%27Pen%20Testing%27,%27Digital%20Forensics%27,%27GRC%20%26%20Auditing%27],datasets:[{label:%27Proficiency%27,data:[9,8,6,7,7,7],backgroundColor:%27rgba(46,160,67,0.25)%27,borderColor:%27%232ea043%27,pointBackgroundColor:%27%232ea043%27}]},options:{scales:{r:{angleLines:{color:%27%23888%27},grid:{color:%27%23888%27},pointLabels:{color:%27%23ccc%27,font:{size:12}},ticks:{display:false,max:10,min:0}}},plugins:{legend:{display:false}}}}" alt="Skill radar"/>
+</div>
 
 <div align="center">
 
@@ -70,7 +81,7 @@ I optimize the boring stuff — automated Okta approval workflows, SSPR, and now
 
 <br/>
 
-## 🎓 Master of Cybersecurity — Lab Timeline
+## 🎓 Master of Cybersecurity — Coursework Timeline
 
 ```
 2025 ─┬─ Penetration Testing — Full Lifecycle Assessment (DVWA + Metasploitable)
@@ -83,7 +94,7 @@ I optimize the boring stuff — automated Okta approval workflows, SSPR, and now
  Now ─── Final Year Project — ML-Based Anomaly Detection for IAM (Autoencoder + SMOTE + CNN)
 ```
 
-**Explore the builds:** [`quickdeliver-scan`](https://github.com/ikeertennah/quickdeliver-scan) · [`juice-shop`](https://github.com/ikeertennah/juice-shop) · [`DVWA`](https://github.com/ikeertennah/DVWA) · [`Master-of-Cybersecurity-Sem-1`](https://github.com/ikeertennah/Master-of-Cybersecurity-Sem-1)
+**Repos:** [`quickdeliver-scan`](https://github.com/ikeertennah/quickdeliver-scan) · [`juice-shop`](https://github.com/ikeertennah/juice-shop) · [`DVWA`](https://github.com/ikeertennah/DVWA) · [`Master-of-Cybersecurity-Sem-1`](https://github.com/ikeertennah/Master-of-Cybersecurity-Sem-1)
 
 <br/>
 
@@ -101,19 +112,22 @@ I optimize the boring stuff — automated Okta approval workflows, SSPR, and now
 <img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ikeertennah&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" width="48%"/>
 <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ikeertennah&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" width="48%"/>
 
+<img src="https://streak-stats.demolab.com?user=ikeertennah&theme=tokyonight&hide_border=true&background=00000000&ring=2ea043&fire=2ea043&currStreakLabel=2ea043" width="97%"/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikeertennah&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" width="97%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ikeertennah&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8" width="97%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-### 📬 Let's Talk
+📩 **ikeertennah@gmail.com**  ·  🔗 **[linkedin.com/in/keertennahdevi](https://www.linkedin.com/in/keertennahdevi)**  ·  💻 **[github.com/ikeertennah](https://github.com/ikeertennah)**
 
-**Currently open to IAM Analyst / Cybersecurity Analyst roles.**
-<br/>
-If you're hiring for identity security, I'd love to chat.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,100:1F3864&height=90&section=footer" width="100%"/>
 
+</div>
 <a href="https://www.linkedin.com/in/keertennahdevi"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,100:1F3864&height=100&section=footer" width="100%"/>
